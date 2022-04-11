@@ -79,7 +79,7 @@
     "babel-plugin-module-resolver": "4.0.0",
     "cross-env": "7.0.2",
     "cypress": "^5.5.0",
-    "eslint": "7.12.1",
+    "eslint": "8.13.0",
     "eslint-config-prettier": "6.15.0",
     "eslint-config-standard": "15.0.0",
     "eslint-plugin-cypress": "^2.11.2",
